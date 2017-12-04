@@ -1,0 +1,6 @@
+framework module BmobDataSDK {
+  umbrella header "BmobDataSDK.h"
+
+  export *
+  module * { export * }
+}
